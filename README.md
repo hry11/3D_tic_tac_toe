@@ -1,3 +1,3 @@
 # 3D_tic_tac_toe
-A tic tac toe game, except it's in 3D
+A tic tac toe game, except it's in 3D  
 **DISCLAIMER: THIS CODE IS STUPIDLY OVERENGINEERED AND WAS SIMPLY A FUN EXERCISE TO TOY AROUND WITH BIT MANIPULATION**  
